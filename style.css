@@ -1,0 +1,9 @@
+head{
+    td{
+        border: 1px solid rgb(18, 190, 162)191;
+        background-color: burlywood;
+    }
+    h1{
+        text-align: center;
+    }
+}
